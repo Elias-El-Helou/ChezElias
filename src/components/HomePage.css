@@ -1,0 +1,18 @@
+.div {
+  text-align: center;
+}
+
+table {
+  border-collapse: separate;
+  margin: auto;
+  width: 80%;
+}
+.branchTitle {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h1,
+h2 {
+    background-color: rgb(174, 0, 255);
+}
